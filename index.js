@@ -24,7 +24,7 @@ function BMI(){
       document.getElementById('result').innerHTML = "Your BMI is :"+  bmi +  ", so you are obese.";
 
     } else {
-      document.getElementById('result').innerHTML = "Your BMI is :"+  bmi +  ",s so you are extremely obese.";
+      document.getElementById('result').innerHTML = "Your BMI is :"+  bmi +  ", so you are extremely obese.";
 
     }
     
